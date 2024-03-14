@@ -1,0 +1,22 @@
+if 
+    it was buy
+	    check-> candle brack the WMA
+        check1->  afte WMA break one candle Lower was greater than WMA
+                    example{
+					         WMA Value= 1.08903
+							 candle Lower = 1.09421
+					}		
+        place order->  then it was the entry signal 
+
+        SL WAS :-  candle higher have was less than WMA	
+                    example:{
+					WMA Value= 1.09421
+					candle higher =1.09416
+					   }                   
+else if 
+    
+	 it was sell
+	 
+	 
+        
+ 
